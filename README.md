@@ -54,3 +54,10 @@ This project follows a structured workflow to ensure a thorough and effective an
     * Implemented various regression models, including Decision Tree, Random Forest, XGBoost, and LightGBM.
     * Performed hyperparameter tuning using `GridSearchCV` to optimize the models.
     * Evaluated the models using multiple metrics, such as R-squared, MAE, MSE, and RMSE, and employed k-fold cross-validation for robust evaluation.
+
+## Installation
+
+To run this project, you need to have Python and the following libraries installed. You can install them using pip:
+
+```bash
+pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm 
