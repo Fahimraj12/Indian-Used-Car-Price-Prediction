@@ -32,3 +32,25 @@ The "Indian IT Cities Used Car Dataset 2023" is a comprehensive collection of da
 |City|City in which the car is being sold|
 |Warranty|Warranty offered by the dealer|
 |Quality Score|Quality score of the car|
+
+## Project Workflow
+
+This project follows a structured workflow to ensure a thorough and effective analysis:
+
+1.  **Data Cleaning and Preprocessing:**
+    * Handled missing values and removed irrelevant columns.
+    * Converted the 'Price' column to a numerical format for analysis.
+    * Engineered a new 'Age' feature from the 'Model Year' to represent the car's age.
+
+2.  **Exploratory Data Analysis (EDA):**
+    * Visualized the distribution of car features like company, model, fuel type, and color to understand the dataset's composition.
+    * Analyzed the relationship between car features and their prices to identify key factors influencing the resale value.
+    * Developed an interactive dashboard using Bokeh to allow for dynamic exploration of the data.
+
+3.  **Feature Engineering:**
+    * Created new features like 'Brand_Tier' and 'Kms_per_Year' to enhance the model's predictive power.
+
+4.  **Model Building and Evaluation:**
+    * Implemented various regression models, including Decision Tree, Random Forest, XGBoost, and LightGBM.
+    * Performed hyperparameter tuning using `GridSearchCV` to optimize the models.
+    * Evaluated the models using multiple metrics, such as R-squared, MAE, MSE, and RMSE, and employed k-fold cross-validation for robust evaluation.
