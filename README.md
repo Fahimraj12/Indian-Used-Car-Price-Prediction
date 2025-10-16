@@ -7,6 +7,9 @@ The aim of this project to predict the price of the used cars in indian metro ci
 ### Problem Statement:
 To develop a reliable machine learning model that accurately predicts the market price of used cars in India based on their features like make, model, age, and kilometers driven. The goal is to provide a data-driven pricing tool for both buyers and sellers to ensure fair and transparent transactions in a volatile market.
 
+### About the Dataset
+The "Indian IT Cities Used Car Dataset 2023" is a comprehensive collection of data that offers valuable insights into the used car market across major metro cities in India. This dataset provides a wealth of information on a wide range of used car listings, encompassing details such as car models, variants, pricing, fuel types, dealer locations, warranty information, colors, kilometers driven, body styles, transmission types, ownership history, manufacture dates, model years, dealer names, CNG kit availability, and quality scores.
+
 ### Data Dictionary
 | Column Name | Description |
 | --- | --- |
