@@ -61,9 +61,3 @@ To run this project, you need to have Python and the following libraries install
 
 ```bash
 pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm 
-
-
-### 👨‍💻 Author
-- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
-- 📧 [mofahimraj@gmail.com]
-- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
