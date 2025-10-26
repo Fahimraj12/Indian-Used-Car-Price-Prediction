@@ -58,10 +58,9 @@ This project follows a structured workflow to ensure a thorough and effective an
 ## Installation
 
 To run this project, you need to have Python and the following libraries installed. You can install them using pip:
-
+   
     ```bash
     pip install pandas numpy matplotlib seaborn plotly scikit-learn xgboost lightgbm 
-
 
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
