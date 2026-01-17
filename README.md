@@ -1,6 +1,6 @@
 # Indian-Used-Car-Price-Prediction
 ![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/Indian-Used-Car-Price-Prediction?style=social)
-Project to predict the price of the used cars in indian metro cities by analyzing the car's features such as company, model, variant, fuel type, quality score and many more.
+- Project to predict the price of the used cars in indian metro cities by analyzing the car's features such as company, model, variant, fuel type, quality score and many more.
 
 ### Project Abstract:
 The aim of this project to predict the price of the used cars in indian metro cities by analyzing the car's features such as company, model, variant, fuel type, quality score and many more.
