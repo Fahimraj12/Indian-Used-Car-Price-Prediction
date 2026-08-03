@@ -57,7 +57,7 @@ This project follows a structured workflow to ensure a thorough and effective an
     * Performed hyperparameter tuning using `GridSearchCV` to optimize the models.
     * Evaluated the models using multiple metrics, such as R-squared, MAE, MSE, and RMSE, and employed k-fold cross-validation for robust evaluation.
 
-## Installation
+### Installation
 
 To run this project, you need to have Python and the following libraries installed. You can install them using pip:
    
